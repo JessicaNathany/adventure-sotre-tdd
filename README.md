@@ -8,12 +8,11 @@ The purpose of this repository is to share studies on tests and some experiments
 ##### 1. A customer to needs to have data validated
 ##### 2. Verfiy if the cutomer exist on the plataform
 
-## Order (Method close) 
+## Order (Method CloseOrder) 
 ##### 0. Verfiy if the order existi on the plataform
 ##### 1. The customer can only rescue products in they are in stock
 ##### 2. A customer cannot redeem  the products when their are lower than the products points 
 ##### 3. A customer cannot redeem  the products if he had no points
-##### 4. A customer cannot redeem  in the store if he is not active on the plataform
 
 ## Order (Add item)
 ##### 0. Verfiy if the order existi on the plataform
