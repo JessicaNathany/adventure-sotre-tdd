@@ -18,7 +18,7 @@ The purpose of this repository is to share studies on tests and some experiments
 ## Order (Add item)
 ##### 0. Verfiy if the order existi on the plataform
 ##### 1. Before adding an item to the cart it is necessary to calculate the total order amount
-##### 2. If an item is already on the list, then add the item quantity to the order
+##### 2. The product value it cannot be less than or equal 0
 
 ## Order (Update item)
 ##### 0. Verfiy if the order existi on the plataform
